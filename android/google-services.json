@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735631246184",
+    "project_id": "tumproje-11707",
+    "storage_bucket": "tumproje-11707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735631246184:android:297174446fdcfe374a8cdd",
+        "android_client_info": {
+          "package_name": "com.ramzey.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsowKeAGHLvHFWldthj_xydEY-sgKNH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
