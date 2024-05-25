@@ -18,6 +18,7 @@ curl -X POST -H "Authorization: Bearer ACCESS_TOKEN" \
   }
 }' https://fcm.googleapis.com/v1/projects/YOUR_PROJECT_ID/messages:send
 
+kaynak : https://www.roketnot.com/not/1854-firebase-cloud-messaging-fcm-tum-telefonlara-bildirim-gondermek-api-v1
 
 * */
 
